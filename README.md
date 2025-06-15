@@ -48,7 +48,6 @@ This application runs entirely client-side after the initial page load. No passw
 ## License
 
 This project is open-source and available under the MIT License.
-```
 
 ## Features of the Password Strength Checker
 
