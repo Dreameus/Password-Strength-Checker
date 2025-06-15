@@ -1,5 +1,3 @@
-```markdown
-
 # Password Strength Checker
 
 This is a PHP-based web application that checks the strength of passwords based on several criteria and provides recommendations for improvement.
